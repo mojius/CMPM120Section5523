@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CMPM-120/section 2-3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "section 2-3"
+	}
+}
